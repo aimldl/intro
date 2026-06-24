@@ -226,18 +226,6 @@ ACIL (Applied Computational Intelligence Laboratory), Prof. Donald C. Wunsch II
 
 ---
 
-### Military Service
-
-- **Republic of Korea Air Force**, The 3659 Communication Squadron, Daegu, South Korea
-- August 1995 - January 1998 (Compulsory)
-- Best Soldier Award
-
-### Personal Background
-
-Spent childhood in Osaka, Japan, where he completed elementary and middle school at Kongo International School before returning to Korea for high school.
-
----
-
 ## Language Proficiency
 
 - **Korean** (Native)
@@ -512,16 +500,12 @@ Control Systems
 - RYLA (Rotary Youth Leadership Awards), Rotary Club, Seoul (1994)
 - ROTARACT, Rotary-sponsored service club, Yonsei University (1993-1994)
 
----
+### Compulsory Military Service
+- Republic of Korea Air Force, The 3659 Communication Squadron, Daegu, South Korea
+- August 1995 - January 1998
+- Best Soldier Award
 
-## Advisors & Key Collaborators
+### Personal Background
 
-- **Donald C. Wunsch II** — Ph.D. advisor, ACIL, Missouri S&T
-- **Larry D. Pyeatt** — Co-author on RL / DTN routing papers
-- **Ganesh Kumar Venayagamoorthy** — Co-author on Computer Go papers
-- **Dong Ku Kim** — M.S. advisor, Yonsei University, Mobile Communication Lab
-- **Won Me Jang** — Professor, UNL (Wireless Networks)
-- **Robert Palmer** — Professor, UNL (Adaptive Signal Processing)
-- **Kwanghoon Sohn** — Professor, Yonsei University (Image Processing Lab, B.S. 1999)
-- **Ludger Marwitz** — Co-author, Siemens Mobile
-- **Xiaoguang Sun, Xindi Cai, J. Adam Nisbett, Jong Hun Rhee** — Co-authors on various papers
+Spent childhood in Osaka, Japan, where he completed elementary and middle school at Kongo International School before returning to Korea for high school.
+
